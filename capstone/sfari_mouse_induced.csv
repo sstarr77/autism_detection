@@ -1,0 +1,46 @@
+id,status,inducer-symbol,inducer-name,inducer-subtype,model-species,number-of-models,has-rescue-model
+1,9,"Cow milk allergen","Cow milk allergen",Biological,"Mus musculus",6,1
+2,9,ACC-INACT,"Anterior cingulate cortex inactivation",Biological,"Mus musculus",1,0
+3,9,"Advanced paternal age","Advanced paternal age",Biological,"Mus musculus",5,0
+4,9,As,Arsenic,Chemical,"Mus musculus",1,0
+5,9,BDE-47,"2,2',4,4'-Tetrabromodiphenyl ether",Chemical,"Mus musculus",1,0
+6,9,BPA,"Bisphenol A",Chemical,"Mus musculus",1,0
+7,9,"Cerebellum inactivation","Cerebellum inactivation ",Biological,"Mus musculus ",1,0
+8,9,Cntnap2Ab,"Cntnap2 antibody",Biological,"Mus musculus",2,0
+9,9,CPF,Chlorpyrifos,Chemical,"Mus musculus",2,0
+10,9,CPO,"Chlorpyrifos oxon",Chemical,"Mus musculus",1,0
+11,9,CYP,Cypermethrin,Chemical,"Mus musculus",3,0
+12,9,"Diesel exhaust particles","Diesel exhaust particles",Chemical,"Mus musculus",1,0
+13,9,DMS-ACT,"Dorsomedial striatum activation ",Biological,"Mus musculus ",1,0
+14,9,DRN-ACT,"Dorsal raphe nucleus activation",Biological,"Mus musculus",3,0
+15,9,DRN-INACT,"Dorsal raphe nucleus inactivation",Biological,"Mus musculus",1,0
+16,9,FD,"Folate deficiency",Biological,"Mus musculus",1,0
+17,9,FEN,Fenvalerate,Chemical,"Mus musculus",2,0
+18,9,Fluoxetine,Fluoxetine,Chemical,"Mus musculus",4,1
+19,9,"Germ-free environment","Germ-free environment",Biological,"Mus musculus",7,1
+20,9,LPS,Lipopolysaccharide,Biological,"Mus musculus",3,1
+21,9,"Maternal high-fat diet","Maternal high-fat diet",Biological,"Mus musculus",6,1
+22,9,Imiquimod,Imiquimod,"Chemical ","Mus musculus",1,0
+23,9,Influenza,"Human influenza virus",Biological,"Mus musculus",3,0
+24,9,ISOLATION,Isolation,Biological,"Mus musculus",2,0
+25,9,"Maternal antibodies","Maternal antibodies",Biological,"Mus musculus",2,0
+26,9,MPEP,2-Methyl-6-(phenylethynyl)-pyridine,Chemical,"Mus musculus",2,0
+27,9,PolyI:C,"Polyinosinic:polycytidylic acid",Biological,"Mus musculus",71,1
+28,9,n6PUFA,"Omega-6 Polyunsaturated fatty acids",Biological,"Mus musculus",1,0
+29,9,NA-ACT,"Nucleus accumbens activation",Biological,"Mus musculus",2,0
+30,9,NA-INACT,"Nucleus accumbens inactivation",Biological,"Mus musculus",1,0
+31,9,PAK-inhibitor,"p21 protein activated kinase 1 inhibitor",Biological,"Mus musculus",1,0
+32,9,rIL-17a,"Recombinant interleukin 17a",Biological,"Mus musculus",2,1
+33,9,rIL-6,"Recombinant interleukin 6",Biological,"Mus musculus",6,1
+34,9,SFB,"Segmented filamentous bacteria",Biological,"Mus musculus",5,1
+35,9,Prenatal-Stress,"Prenatal stress",Biological,"Mus musculus",3,0
+36,9,SSCX-ACT,"Somatosensory cortex activation",Biological,"Mus musculus",13,0
+37,9,SSCX-INACT,"Somatosensory cortex inactivation",Biological,"Mus musculus",6,0
+38,9,STRESS,Stress,Biological,"Mus musculus",4,1
+39,9,"Thiamine deficiency","Thiamine deficiency",Biological,"Mus musculus",2,0
+40,9,Thm,Thimerosal,Chemical,"Mus musculus",3,0
+41,9,VPA,"Valproic acid",Chemical,"Mus musculus",36,1
+42,9,VTA-ACT,"Ventral tegmental area activation",Biological,"Mus musculus",1,0
+43,9,VTA-INACT,"Ventral tegmental area inactivation",Biological,"Mus musculus",2,0
+44,9,"DN Rac1","Dominant negative Rac1",Biological,"Mus musculus",0,0
+45,9,Thalidomide,Thalidomide,Chemical,"Mus musculus",0,0

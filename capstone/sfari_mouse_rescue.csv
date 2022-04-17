@@ -1,0 +1,332 @@
+status,model-id,model-symbol,model-type,model-species,rescue-type,rescue-agent,number-of-rescue-models,parent-model-name
+9,M_ADNP_1_KO_HT_NAP,ADNP,Genetic,"Mus musculus",Pharmaceutical,NAP,3,M_ADNP_1_KO_HT
+9,M_ADNP_1_KO_HT_SKIP,ADNP,Genetic,"Mus musculus",Pharmaceutical,SKIP,2,M_ADNP_1_KO_HT
+9,M_ADNP_2_KO_HT_NAP,ADNP,Genetic,"Mus musculus",Pharmaceutical,NAP,2,M_ADNP_2_KO_HT
+9,M_ALDH5A1_1_KO_HM_CGP-35348,ALDH5A1,Genetic,"Mus musculus",Pharmaceutical,"CGP 35348",1,M_ALDH5A1_1_KO_HM
+9,M_ALDH5A1_1_KO_HM_Vigabatrin,ALDH5A1,Genetic,"Mus musculus",Pharmaceutical,Vigabatrin,1,M_ALDH5A1_1_KO_HM
+9,M_ARHGAP33_1_KO_HM_EGFP_Rho-deleted-Noma-gap-protein,ARHGAP33,Genetic,"Mus musculus",Genetic,"Rho deleted Noma-gap protein",1,M_ARHGAP33_1_KO_HM_EGFP
+9,M_ARHGAP33_1_KO_HM_EGFP_Wild-type-Noma-gap-protein,ARHGAP33,Genetic,"Mus musculus",Genetic,"Wild type Noma-gap protein",1,M_ARHGAP33_1_KO_HM_EGFP
+9,M_ARID1B_1_KO_HT_recombinant-human-insulin-like-growth-factor-1,ARID1B,Genetic,"Mus musculus",Pharmaceutical,"recombinant human insulin like growth factor 1",1,M_ARID1B_1_KO_HT
+9,M_ARID1B_1_KO_HT_recombinant-mouse-growth-hormone,ARID1B,Genetic,"Mus musculus",Pharmaceutical,"recombinant mouse growth hormone",1,M_ARID1B_1_KO_HT
+9,M_BAIAP2_1_KO_HM_Memantine,BAIAP2,Genetic,"Mus musculus",Pharmaceutical,Memantine,1,M_BAIAP2_1_KO_HM
+9,M_ADNP_3_KO_HT_NAP,ADNP,Genetic,"Mus musculus",Pharmaceutical,NAP,1,M_ADNP_3_KO_HT
+9,M_ADNP_3_KO_HT_STRESS_PACAP,ADNP,Multifactorial,"Mus musculus",Pharmaceutical,PACAP,1,M_ADNP_3_KO_HT_STRESS
+9,M_ADNP_4_KO_HT_NAP,ADNP,Genetic,"Mus musculus",Pharmaceutical,NAP,1,M_ADNP_4_KO_HT
+9,M_AHI1_4_KD_CX-546,AHI1,"Genetic LOF","Mus musculus",Pharmaceutical,CX-546,1,M_AHI1_4_KD
+9,M_ARHGAP32_1_KO_HM_Clonazepam,ARHGAP32,Genetic,"Mus musculus",Pharmaceutical,Clonazepam,1,M_ARHGAP32_1_KO_HM
+9,M_ARHGAP33_1_KO_HM_One-Cdc42-copy-knocked-out,ARHGAP33,Genetic,"Mus musculus",Genetic,"One Cdc42 copy knocked out",2,M_ARHGAP33_1_KO_HM
+9,M_ARID1B_7_KO_HT_Clonazepam,ARID1B,Genetic,"Mus musculus",Pharmaceutical,Clonazepam,1,M_ARID1B_7_KO_HT
+9,M_ASH1L_2_KO_HM_Il-6-knockout,ASH1L,Genetic,"Mus musculus",Genetic,"Il-6 knockout",1,M_ASH1L_2_KO_HM
+9,M_ATP1A3_1_HT_KI_Lithium,ATP1A3,Genetic,"Mus musculus",Pharmaceutical,Lithium,1,M_ATP1A3_1_HT_KI
+9,M_BAIAP2_1_KO_HM_MPEP,BAIAP2,Genetic,"Mus musculus",Pharmaceutical,MPEP,1,M_BAIAP2_1_KO_HM
+9,M_BCKDK_1_KO_HM_Branched-chain-amino-acid-diet,BCKDK,Genetic,"Mus musculus",Dietary,"Branched-chain amino acid diet",1,M_BCKDK_1_KO_HM
+9,M_BCKDK_1_KO_HM_High-protein-diet,BCKDK,Genetic,"Mus musculus",Dietary,"High protein diet",1,M_BCKDK_1_KO_HM
+9,M_CDKL5_5_CKO_HM_Memantine,CDKL5,Genetic,"Mus musculus",Pharmaceutical,Memantine,1,M_CDKL5_5_CKO_HM
+9,M_CDKL5_6_KI_Memantine,CDKL5,Genetic,"Mus musculus",Pharmaceutical,Memantine,2,M_CDKL5_6_KI
+9,M_CHD2_3_KO_HT_MGE-progenitor-cells,CHD2,Genetic,"Mus musculus",Transplantation,"MGE progenitor cells",1,M_CHD2_3_KO_HT
+9,M_CHD8_4_KD_human-CHD8,CHD8,Genetic,"Mus musculus",Genetic,"human CHD8",1,M_CHD8_4_KD
+9,M_CHD8_4_KD_stablized-Ctnnb1(S37A),CHD8,Genetic,"Mus musculus",Genetic,"stablized Ctnnb1(S37A)",1,M_CHD8_4_KD
+9,M_CHD7_3_CKO_HM_GRANULEN_Reelin-gene-expression,CHD7,Genetic,"Mus musculus",Genetic,"Reelin gene expression",1,M_CHD7_3_CKO_HM_GRANULEN
+9,M_CHD8_12_CKO_HM_CPI-455,CHD8,Genetic,"Mus musculus",Pharmaceutical,CPI-455,1,M_CHD8_12_CKO_HM
+9,M_CHD8_1_KO_HT_Oxytocin,CHD8,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_CHD8_1_KO_HT
+9,M_CHD8_5_KD_stablized-Ctnnb1(S37A),CHD8,Genetic,"Mus musculus",Genetic,"stablized Ctnnb1(S37A)",1,M_CHD8_5_KD
+9,M_CNTNAP2_10_KI_HT_Isoguvacine,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_CNTNAP2_10_KI_HT
+9,M_CNTNAP2_11_KD_CX-546,CNTNAP2,"Genetic LOF","Mus musculus",Pharmaceutical,CX-546,1,M_CNTNAP2_11_KD
+9,M_CNTNAP2_2_KO_HM_Human-CNTNAP2,CNTNAP2,Genetic,"Mus musculus",Genetic,"Human CNTNAP2",1,M_CNTNAP2_2_KO_HM
+9,M_CNTNAP2_5_KO_HM_Arginine-vasopressin,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,"Arginine vasopressin",3,M_CNTNAP2_5_KO_HM
+9,"M_CNTNAP2_5_KO_HM_Arginine-vasopressin;L371,257",CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,"Arginine vasopressin;L371,257",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Arginine-vasopressin;Relcovaptan,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,"Arginine vasopressin;Relcovaptan",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_DREADD-Oxytocin-neurons,CNTNAP2,Genetic,"Mus musculus",Genetic,"DREADD-Oxytocin neurons",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Fenobam,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Fenobam,1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Flumazenil,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Flumazenil,1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Fluoxetine,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Fluoxetine,1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Ro27-3225,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Ro27-3225,2,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_GUT_Cocaine,CNTNAP2,Multifactorial,"Mus musculus",Pharmaceutical,Cocaine,1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP2_5_KO_HM_GUT_Cohousing,CNTNAP2,Multifactorial,"Mus musculus",Behavioral,Cohousing,1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP2_5_KO_HM_GUT_Tetrahydrobiopterin,CNTNAP2,Multifactorial,"Mus musculus",Pharmaceutical,Tetrahydrobiopterin,1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP2_5_KO_HM_Lipopolysaccharide,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Lipopolysaccharide,1,M_CNTNAP2_5_KO_HM
+9,"M_CNTNAP2_5_KO_HM_Oxytocin;L371,257",CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,"Oxytocin;L371,257",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_GUT_Heterozygous-breeding,CNTNAP2,Multifactorial,"Mus musculus",Procedural,"Heterozygous breeding",1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP2_5_KO_HM_GUT_Lactobacillus-reuteri,CNTNAP2,Multifactorial,"Mus musculus",Dietary,"Lactobacillus reuteri",1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP2_5_KO_HM_Recombinant-interleukin-17a,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,"Recombinant interleukin 17a",1,M_CNTNAP2_5_KO_HM
+9,"M_CNTNAP2_5_KO_HM_Ro27-3225;L371,257",CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,"Ro27-3225;L371,257",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Oxytocin,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,4,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_GUT_Oxytocin,CNTNAP2,Multifactorial,"Mus musculus",Pharmaceutical,Oxytocin,1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP2_5_KO_HM_Risperidone,CNTNAP2,Genetic,"Mus musculus",Pharmaceutical,Risperidone,1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Parvalbumin-neuron-activation,CNTNAP2,Genetic,"Mus musculus",Procedural,"Parvalbumin neuron activation",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Primary-somatosensory-cortex-dysgranular-zone-(S1DZ)-optogenetic-inactivation,CNTNAP2,Genetic,"Mus musculus",Procedural,"Primary somatosensory cortex dysgranular zone (S1DZ) optogenetic inactivation",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Pyramidal-neuron-activation,CNTNAP2,Genetic,"Mus musculus",Procedural,"Pyramidal neuron activation",1,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_Tau-deficiency,CNTNAP2,Genetic,"Mus musculus",Genetic,"Tau deficiency",2,M_CNTNAP2_5_KO_HM
+9,M_CNTNAP2_5_KO_HM_GUT_Separation-from-wildtype-littermate,CNTNAP2,Multifactorial,"Mus musculus",Behavioral,"Separation from wildtype littermate",1,M_CNTNAP2_5_KO_HM_GUT
+9,M_CNTNAP4_1_KO_HT_Haloperidol,CNTNAP4,Genetic,"Mus musculus",Pharmaceutical,Haloperidol,1,M_CNTNAP4_1_KO_HT
+9,M_CNTNAP4_1_KO_HT_Indipnol,CNTNAP4,Genetic,"Mus musculus",Pharmaceutical,Indipnol,1,M_CNTNAP4_1_KO_HT
+9,M_CTTNBP2_1_KO_HM_D-Cycloserine,CTTNBP2,"Genetic LOF","Mus musculus",Pharmaceutical,D-Cycloserine,1,M_CTTNBP2_1_KO_HM
+9,M_CTTNBP2_1_KO_HM_Zinc,CTTNBP2,"Genetic LOF","Mus musculus",Pharmaceutical,Zinc,1,M_CTTNBP2_1_KO_HM
+9,M_CTTNBP2_3_KI_HT_R533_D-Cycloserine,CTTNBP2,"Genetic LOF","Mus musculus",Pharmaceutical,D-Cycloserine,1,M_CTTNBP2_3_KI_HT_R533
+9,M_CTTNBP2_3_KI_HT_R533_Zinc,CTTNBP2,"Genetic LOF","Mus musculus",Pharmaceutical,Zinc,1,M_CTTNBP2_3_KI_HT_R533
+9,M_CUL3_4_CKO_HT_BCI-121,CUL3,Genetic,"Mus musculus",Pharmaceutical,BCI-121,1,M_CUL3_4_CKO_HT
+9,M_CUL3_4_CKO_HT_Smyd3-knockdown,CUL3,Genetic,"Mus musculus",Genetic,"Smyd3 knockdown",1,M_CUL3_4_CKO_HT
+9,M_EIF4EBP2_1_KO_HM_4EGI-1,EIF4EBP2,Genetic,"Mus musculus",Pharmaceutical,4EGI-1,1,M_EIF4EBP2_1_KO_HM
+9,M_EIF4EBP2_1_KO_HM_shRNAs-against-Nlgn1,EIF4EBP2,Genetic,"Mus musculus",Genetic,"shRNAs against Nlgn1",1,M_EIF4EBP2_1_KO_HM
+9,M_EIF4EBP2_1_KO_HM_shRNAs-against-Nlgn2,EIF4EBP2,Genetic,"Mus musculus",Genetic,"shRNAs against Nlgn2",1,M_EIF4EBP2_1_KO_HM
+9,M_CNTNAP4_2_KO_HM_Indipnol,CNTNAP4,Genetic,"Mus musculus",Pharmaceutical,Indipnol,1,M_CNTNAP4_2_KO_HM
+9,M_CTTNBP2_10_KI_HT_R533_wildtype-cortactin,CTTNBP2,"Genetic LOF","Mus musculus",Genetic,"wildtype cortactin",1,M_CTTNBP2_10_KI_HT_R533
+9,M_CTTNBP2_4_KI_HT_M120I_wildtype-cortactin,CTTNBP2,"Genetic LOF","Mus musculus",Genetic,"wildtype cortactin",1,M_CTTNBP2_4_KI_HT_M120I
+9,M_CUL3_10_CKO_HT_Chemogenetic-reduction-in-activity-of-ventral-hippocampal-pyramidal-neurons,CUL3,Genetic,"Mus musculus",Genetic,"Chemogenetic reduction in activity of ventral hippocampal pyramidal neurons",1,M_CUL3_10_CKO_HT
+9,M_CUL3_12_KO_HT_Rhosin,CUL3,"Genetic LOF","Mus musculus",Pharmaceutical,Rhosin,1,M_CUL3_12_KO_HT
+9,M_CUL3_8_CKO_HT_4EGI-1,CUL3,Genetic,"Mus musculus",Pharmaceutical,4EGI-1,1,M_CUL3_8_CKO_HT
+9,M_CYFIP1_2_KO_HT_Motor-training,CYFIP1,Genetic,"Mus musculus",Procedural,"Motor training",1,M_CYFIP1_2_KO_HT
+9,M_DIP2A_1_KO_HM_Cortactin-8KQ,DIP2A,Genetic,"Mus musculus",Genetic,Cortactin-8KQ,1,M_DIP2A_1_KO_HM
+9,M_DISC1_12_KO_HM_Clozapine,DISC1,Genetic,"Mus musculus",Pharmaceutical,Clozapine,1,M_DISC1_12_KO_HM
+9,M_DVL1_1_KO_HM_CHIR99021,DVL1,Genetic,"Mus musculus",Pharmaceutical,CHIR99021,1,M_DVL1_1_KO_HM
+9,M_DVL1_2_KO_HM_DVL3_DM_CHIR99021,DVL1,Genetic,"Mus musculus",Pharmaceutical,CHIR99021,1,M_DVL1_2_KO_HM_DVL3_DM
+9,M_DVL1_2_KO_HM_DVL3_DM_CHIR99021,DVL3,Genetic,"Mus musculus",Pharmaceutical,CHIR99021,1,M_DVL1_2_KO_HM_DVL3_DM
+9,M_EIF4E_1_TG_4EGI-1,EIF4E,Genetic,"Mus musculus",Pharmaceutical,4EGI-1,1,M_EIF4E_1_TG
+9,M_FGFR2_3_KD_Reinstatement-of-Fgfr2,FGFR2,Genetic,"Mus musculus",Genetic,"Reinstatement of Fgfr2",1,M_FGFR2_3_KD
+9,M_FMR1_11_KO_HM_Cyclosporine-A,FMR1,Genetic,"Mus musculus",Pharmaceutical,Cyclosporine-A,2,M_FMR1_11_KO_HM
+9,M_FMR1_11_KO_HM_Dexpramipexole,FMR1,Genetic,"Mus musculus",Pharmaceutical,Dexpramipexole,1,M_FMR1_11_KO_HM
+9,"M_FMR1_1_KO_HM_BW-723C86;MDL-11,939",FMR1,Genetic,"Mus musculus",Pharmaceutical,"BW-723C86;MDL-11,939",2,M_FMR1_1_KO_HM
+9,M_FMR1_14_KO_HE_Isoguvacine,FMR1,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_FMR1_14_KO_HE
+9,M_FMR1_15_KO_HM_Bryostatin1,FMR1,"Genetic LOF","Mus musculus",Pharmaceutical,Bryostatin1,1,M_FMR1_15_KO_HM
+9,M_FMR1_1_KO_HM_inactivation-of-one-allele-of-App-gene,FMR1,Genetic,"Mus musculus",Genetic,"inactivation of one allele of App gene",1,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_CTEP,FMR1,Genetic,"Mus musculus",Pharmaceutical,CTEP,2,M_FMR1_1_KO_HM
+9,"M_FMR1_1_KO_HM_BW-723C86;MDL-11,939;SKF-81,297;Sulpiride",FMR1,Genetic,"Mus musculus",Pharmaceutical,"BW-723C86;MDL-11,939;SKF-81,297;Sulpiride",1,M_FMR1_1_KO_HM
+9,"M_FMR1_1_KO_HM_SKF-81,297;Sulpiride",FMR1,Genetic,"Mus musculus",Pharmaceutical,"SKF-81,297;Sulpiride",2,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_CX-4945,FMR1,Genetic,"Mus musculus",Pharmaceutical,CX-4945,1,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_Lithium,FMR1,Genetic,"Mus musculus",Pharmaceutical,Lithium,2,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_Minocycline,FMR1,Genetic,"Mus musculus",Pharmaceutical,Minocycline,3,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_JQ1,FMR1,Genetic,"Mus musculus",Pharmaceutical,JQ1,3,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_CX-4945;JQ1,FMR1,Genetic,"Mus musculus",Pharmaceutical,CX-4945;JQ1,1,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_Recombinant-interleukin-17a,FMR1,Genetic,"Mus musculus",Pharmaceutical,"Recombinant interleukin 17a",1,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_Lipopolysaccharide,FMR1,Genetic,"Mus musculus",Pharmaceutical,Lipopolysaccharide,1,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_MPEP,FMR1,Genetic,"Mus musculus",Pharmaceutical,MPEP,1,M_FMR1_1_KO_HM
+9,M_FMR1_1_KO_HM_Primary-somatosensory-cortex-dysgranular-zone-(S1DZ)-optogenetic-inactivation,FMR1,Genetic,"Mus musculus",Procedural,"Primary somatosensory cortex dysgranular zone (S1DZ) optogenetic inactivation",1,M_FMR1_1_KO_HM
+9,M_FMR1_2_KO_HM_CTEP,FMR1,Genetic,"Mus musculus",Pharmaceutical,CTEP,2,M_FMR1_2_KO_HM
+9,M_FMR1_3_KO_HM_Bumetanide,FMR1,Genetic,"Mus musculus",Pharmaceutical,Bumetanide,2,M_FMR1_3_KO_HM
+9,M_FMR1_7_KO_HM_FRAX486,FMR1,Genetic,"Mus musculus",Pharmaceutical,FRAX486,12,M_FMR1_7_KO_HM
+9,M_FMR1_7_KO_HM_Minocycline,FMR1,Genetic,"Mus musculus",Pharmaceutical,Minocycline,1,M_FMR1_7_KO_HM
+9,M_FMR1_8_KO_HM_inactivation-of-one-copy-of-S6K1,FMR1,Genetic,"Mus musculus",Genetic,"inactivation of one copy of S6K1",1,M_FMR1_8_KO_HM
+9,M_FMR1_8_KO_HM_inactivation-of-S6K1-gene,FMR1,Genetic,"Mus musculus",Genetic,"inactivation of S6K1 gene",1,M_FMR1_8_KO_HM
+9,M_GABRB2_1_KO_HM_Diazepam,GABRB2,Genetic,"Mus musculus",Pharmaceutical,Diazepam,2,M_GABRB2_1_KO_HM
+9,M_GABRB2_1_KO_HM_Risperidone,GABRB2,Genetic,"Mus musculus",Pharmaceutical,Risperidone,1,M_GABRB2_1_KO_HM
+9,M_GABRB3_1_KO_HM_Baclofen,GABRB3,Genetic,"Mus musculus",Pharmaceutical,Baclofen,1,M_GABRB3_1_KO_HM
+9,M_FOLH1_1_KO_HT_Low-folate-diet,FOLH1,Genetic,"Mus musculus",Dietary,"Low folate diet",2,M_FOLH1_1_KO_HT
+9,M_FOXG1_1_KI_HT_mPFC-GABAergic-cell-precursor-transplantation,FOXG1,Genetic,"Mus musculus",Transplantation,"mPFC GABAergic cell precursor transplantation",1,M_FOXG1_1_KI_HT
+9,M_GABRB2_2_KO_HT_Risperidone,GABRB2,Genetic,"Mus musculus",Pharmaceutical,Risperidone,1,M_GABRB2_2_KO_HT
+9,M_GABRB3_11_CKO_HT_Isoguvacine,GABRB3,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_GABRB3_11_CKO_HT
+9,M_GABRB3_12_CKO_HM_Isoguvacine,GABRB3,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_GABRB3_12_CKO_HM
+9,M_GABRB3_1_KO_HM_Carbamazepine,GABRB3,Genetic,"Mus musculus",Pharmaceutical,Carbamazepine,1,M_GABRB3_1_KO_HM
+9,M_GABRB3_1_KO_HM_CGP-35348,GABRB3,Genetic,"Mus musculus",Pharmaceutical,"CGP 35348",1,M_GABRB3_1_KO_HM
+9,M_GABRB3_1_KO_HM_Clonazepam,GABRB3,Genetic,"Mus musculus",Pharmaceutical,Clonazepam,1,M_GABRB3_1_KO_HM
+9,M_GABRB3_1_KO_HM_Ethosuximide,GABRB3,Genetic,"Mus musculus",Pharmaceutical,Ethosuximide,1,M_GABRB3_1_KO_HM
+9,M_GABRB3_1_KO_HM_THIP,GABRB3,Genetic,"Mus musculus",Pharmaceutical,THIP,1,M_GABRB3_1_KO_HM
+9,M_GABRB3_1_KO_HM_Valproic-acid,GABRB3,Genetic,"Mus musculus",Pharmaceutical,"Valproic acid",1,M_GABRB3_1_KO_HM
+9,M_GRIK4_1_TG_Fluoxetine,GRIK4,Genetic,"Mus musculus",Pharmaceutical,Fluoxetine,1,M_GRIK4_1_TG
+9,M_GRIK4_1_TG_Grik-null,GRIK4,Genetic,"Mus musculus",Genetic,Grik-null,1,M_GRIK4_1_TG
+9,M_GRIK2_3_HM_GRIK1-5_5KO_Fluoxetine,GRIK2,Genetic,"Mus musculus",Pharmaceutical,Fluoxetine,1,M_GRIK2_3_HM_GRIK1-5_5KO
+9,M_GRIK4_1_TG_IEM1460,GRIK4,Genetic,"Mus musculus",Pharmaceutical,IEM1460,1,M_GRIK4_1_TG
+9,M_GRIK4_1_TG_Tianeptine,GRIK4,Genetic,"Mus musculus",Pharmaceutical,Tianeptine,1,M_GRIK4_1_TG
+9,M_GRIK4_1_TG_UBP310,GRIK4,Genetic,"Mus musculus",Pharmaceutical,UBP310,1,M_GRIK4_1_TG
+9,M_GRIN1_1_KO_HM_Baclofen,GRIN1,Genetic,"Mus musculus",Pharmaceutical,Baclofen,1,M_GRIN1_1_KO_HM
+9,"M_GRIN1_1_KO_HM_L-838,417",GRIN1,Genetic,"Mus musculus",Pharmaceutical,"L-838,417",1,M_GRIN1_1_KO_HM
+9,M_GRIN1_1_KO_HM_Risperidone,GRIN1,Genetic,"Mus musculus",Pharmaceutical,Risperidone,1,M_GRIN1_1_KO_HM
+9,M_IFNG_1_KO_HM_Diazepam,IFNG,Genetic,"Mus musculus",Pharmaceutical,Diazepam,1,M_IFNG_1_KO_HM
+9,M_IFNG_1_KO_HM_Interferon-gamma,IFNG,Genetic,"Mus musculus",Pharmaceutical,"Interferon gamma",1,M_IFNG_1_KO_HM
+9,"M_MECP2_1.3_KO_HE_7,8-Dihydroxyflavone",MECP2,Genetic,"Mus musculus",Pharmaceutical,"7,8-Dihydroxyflavone",1,M_MECP2_1.3_KO_HE
+9,M_MECP2_1.3_KO_HE_Acetyl-L-carnitine,MECP2,Genetic,"Mus musculus",Pharmaceutical,Acetyl-L-carnitine,1,M_MECP2_1.3_KO_HE
+9,M_LRRC4_1_KO_HM_D-Cycloserine,LRRC4,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,3,M_LRRC4_1_KO_HM
+9,M_MECP2_1.2_KO_HE_CX-546,MECP2,Genetic,"Mus musculus",Pharmaceutical,CX-546,1,M_MECP2_1.2_KO_HE
+9,M_MECP2_1.3_KO_HE_D-Cycloserine,MECP2,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_MECP2_1.3_KO_HE
+9,M_MECP2_34.1_TG_2X_Antalarmin,MECP2,Genetic,"Mus musculus",Pharmaceutical,Antalarmin,1,M_MECP2_34.1_TG_2X
+9,M_MECP2_34.1_TG_2X_one-copy-of-Crh-knocked-out,MECP2,Genetic,"Mus musculus",Genetic,"one copy of Crh knocked out",1,M_MECP2_34.1_TG_2X
+9,M_MECP2_34.1_TG_2X_One-copy-of-Crhr1-knocked-out,MECP2,Genetic,"Mus musculus",Genetic,"One copy of Crhr1 knocked out",1,M_MECP2_34.1_TG_2X
+9,M_MECP2_5.2_KO_HE_Cysteamine,MECP2,Genetic,"Mus musculus",Pharmaceutical,Cysteamine,1,M_MECP2_5.2_KO_HE
+9,M_MECP2_5.2_KO_HE_RU-486,MECP2,Genetic,"Mus musculus",Pharmaceutical,RU-486,1,M_MECP2_5.2_KO_HE
+9,M_MECP2_52_CKO_HE_Isoguvacine,MECP2,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_MECP2_52_CKO_HE
+9,M_MECP2_1.3_KO_HT_Acetyl-L-carnitine,MECP2,Genetic,"Mus musculus",Pharmaceutical,Acetyl-L-carnitine,1,M_MECP2_1.3_KO_HT
+9,M_MECP2_34.2_TG_2X_One-copy-of-Oprm1-knocked-out,MECP2,Genetic,"Mus musculus",Genetic,"One copy of Oprm1 knocked out",1,M_MECP2_34.2_TG_2X
+9,M_MECP2_36_TG_7X_Reducing-Mecp2-expression-from-transgene,MECP2,Genetic,"Mus musculus",Genetic,"Reducing Mecp2 expression from transgene",1,M_MECP2_36_TG_7X
+9,M_MECP2_50_KI_HE_STOP_MECP2-dNIC,MECP2,Genetic,"Mus musculus",Genetic,MECP2-dNIC,1,M_MECP2_50_KI_HE_STOP
+9,M_MECP2_52_CKO_HE_Midazolam,MECP2,Genetic,"Mus musculus",Pharmaceutical,Midazolam,1,M_MECP2_52_CKO_HE
+9,M_MECP2_5_KO_HT_RU-486,MECP2,Genetic,"Mus musculus",Pharmaceutical,RU-486,1,M_MECP2_5_KO_HT
+9,M_MECP2_53_KO_HE_Reinstatement-of-Mecp2,MECP2,Genetic,"Mus musculus",Genetic,"Reinstatement of Mecp2",2,M_MECP2_53_KO_HE
+9,M_MECP2_57_KI_HE_Gabrb3,MECP2,Genetic,"Mus musculus",Genetic,Gabrb3,1,M_MECP2_57_KI_HE
+9,M_MECP2_57_KI_HE_Isoguvacine,MECP2,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_MECP2_57_KI_HE
+9,M_MECP2_58_KI_HT_Isoguvacine,MECP2,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,1,M_MECP2_58_KI_HT
+9,M_MECP2_59_TG_2X_SL327,MECP2,"Genetic GOF","Mus musculus",Pharmaceutical,SL327,1,M_MECP2_59_TG_2X
+9,M_MECP2_5_KO_HE_MECP2-dNIC,MECP2,Genetic,"Mus musculus",Genetic,MECP2-dNIC,1,M_MECP2_5_KO_HE
+9,M_MECP2_5_KO_HT_training,MECP2,Genetic,"Mus musculus",Behavioral,training,1,M_MECP2_5_KO_HT
+9,M_MECP2_6_KD_D-Cycloserine,MECP2,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_MECP2_6_KD
+9,M_MECP2_6_KD_Fenobam,MECP2,Genetic,"Mus musculus",Pharmaceutical,Fenobam,1,M_MECP2_6_KD
+9,M_MECP2_6_KD_SCH-23390,MECP2,Genetic,"Mus musculus",Pharmaceutical,SCH-23390,1,M_MECP2_6_KD
+9,M_MECP2_6_KD_SCH-39166,MECP2,Genetic,"Mus musculus",Pharmaceutical,SCH-39166,1,M_MECP2_6_KD
+9,M_MEF2C_7_KO_HT_Memantine,MEF2C,Genetic,"Mus musculus",Pharmaceutical,Memantine,1,M_MEF2C_7_KO_HT
+9,M_MEF2C_7_KO_HT_NitroSynapsin,MEF2C,Genetic,"Mus musculus",Pharmaceutical,NitroSynapsin,1,M_MEF2C_7_KO_HT
+9,M_MIR137_4_CKO_HT_Ablation-of-Pde10a,MIR137,Genetic,"Mus musculus",Genetic,"Ablation of Pde10a",1,M_MIR137_4_CKO_HT
+9,M_MIR137_4_CKO_HT_Papaverine,MIR137,Genetic,"Mus musculus",Pharmaceutical,Papaverine,1,M_MIR137_4_CKO_HT
+9,M_MTHFR_1_KO_HT_C1-enriched-diet,MTHFR,Genetic,"Mus musculus",Dietary,"C1 enriched diet",2,M_MTHFR_1_KO_HT
+9,M_MTOR_1_CKO_HM_Dendrotoxin-K,MTOR,"Genetic LOF","Mus musculus",Pharmaceutical,Dendrotoxin-K,1,M_MTOR_1_CKO_HM
+9,M_MTOR_1_CKO_HM_Tetraethylammonium-chloride,MTOR,"Genetic LOF","Mus musculus",Pharmaceutical,"Tetraethylammonium chloride",1,M_MTOR_1_CKO_HM
+9,M_NLGN3_16_KO_HM_ETC-168,NLGN3,Genetic,"Mus musculus",Pharmaceutical,ETC-168,2,M_NLGN3_16_KO_HM
+9,M_NEGR1_3_KD_Fgfr2-cDNA,NEGR1,Genetic,"Mus musculus",Genetic,"Fgfr2 cDNA",1,M_NEGR1_3_KD
+9,M_NEGR1_5_KD_Reinstatement-of-Negr1,NEGR1,Genetic,"Mus musculus",Genetic,"Reinstatement of Negr1",1,M_NEGR1_5_KD
+9,M_NLGN3_10_CKO_HM_DIO-NL3-transgene-in-nucleus-accumbens,NLGN3,Genetic,"Mus musculus",Genetic,"DIO-NL3 transgene in nucleus accumbens",1,M_NLGN3_10_CKO_HM
+9,M_NLGN3_16_KO_HM_Nlgn3,NLGN3,Genetic,"Mus musculus",Genetic,Nlgn3,4,M_NLGN3_16_KO_HM
+9,M_NLGN3_21_KI_R451C_NLGN3,NLGN3,Genetic,"Mus musculus",Genetic,NLGN3,1,M_NLGN3_21_KI_R451C
+9,M_NLGN3_21_KI_R451C_Optogenetic-activation-of-Pvalb-interneurons,NLGN3,Genetic,"Mus musculus",Genetic,"Optogenetic activation of Pvalb interneurons",1,M_NLGN3_21_KI_R451C
+9,M_NLGN3_26_KI_R451C_ACEA,NLGN3,Genetic,"Mus musculus",Pharmaceutical,ACEA,1,M_NLGN3_26_KI_R451C
+9,M_NLGN3_26_KI_R451C_HU-210,NLGN3,Genetic,"Mus musculus",Pharmaceutical,HU-210,1,M_NLGN3_26_KI_R451C
+9,M_NLGN3_26_KI_R451C_Quinpirole,NLGN3,Genetic,"Mus musculus",Pharmaceutical,Quinpirole,1,M_NLGN3_26_KI_R451C
+9,M_NLGN3_26_KI_R451C_URB597,NLGN3,Genetic,"Mus musculus",Pharmaceutical,URB597,1,M_NLGN3_26_KI_R451C
+9,M_OPRM1_1_HM_KO_Double-mothering---social-enrichment,OPRM1,Genetic,"Mus musculus",Behavioral,"Double mothering - social enrichment",1,M_OPRM1_1_HM_KO
+9,M_NLGN3_19_KO_HE_Nlgn3-reexpression,NLGN3,Genetic,"Mus musculus",Genetic,"Nlgn3 reexpression",1,M_NLGN3_19_KO_HE
+9,M_OPRM1_1_HM_KO_Oxytocin,OPRM1,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_OPRM1_1_HM_KO
+9,M_OXTR_12_CKO_HM_Cocaine,OXTR,Genetic,"Mus musculus",Pharmaceutical,Cocaine,1,M_OXTR_12_CKO_HM
+9,M_OXTR_12_CKO_HM_Lactobacillus-reuteri,OXTR,Genetic,"Mus musculus",Dietary,"Lactobacillus reuteri",1,M_OXTR_12_CKO_HM
+9,M_OXT_1_KO_HM_Arginine-vasopressin,OXT,Genetic,"Mus musculus",Pharmaceutical,"Arginine vasopressin",1,M_OXT_1_KO_HM
+9,M_OXT_1_KO_HM_Ota-vasotocin,OXT,Genetic,"Mus musculus",Pharmaceutical,Ota-vasotocin,1,M_OXT_1_KO_HM
+9,M_OXT_1_KO_HM_Oxytocin,OXT,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_OXT_1_KO_HM
+9,M_OXT_2_KO_HM_CB1-receptor-antagonist,OXT,Genetic,"Mus musculus","Genetic; Induced","CB1 receptor antagonist",1,M_OXT_2_KO_HM
+9,M_OXT_2_KO_HM_Pregnancy,OXT,Genetic,"Mus musculus",Genetic,Pregnancy,1,M_OXT_2_KO_HM
+9,M_OXTR_12_CKO_HM_Oxytocin,OXTR,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_OXTR_12_CKO_HM
+9,M_OXTR_1_KO_HM_Arginine-vasopressin,OXTR,Genetic,"Mus musculus",Pharmaceutical,"Arginine vasopressin",1,M_OXTR_1_KO_HM
+9,M_OXTR_1_KO_HM_Oxytocin,OXTR,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_OXTR_1_KO_HM
+9,M_PLPPR4_1_KO_HM_H253K-PLPPR4,PLPPR4,Genetic,"Mus musculus",Genetic,H253K-PLPPR4,1,M_PLPPR4_1_KO_HM
+9,M_PLPPR4_1_KO_HM_LPA2R,PLPPR4,Genetic,"Mus musculus",Genetic,LPA2R,1,M_PLPPR4_1_KO_HM
+9,M_PLPPR4_1_KO_HM_PLPPR4,PLPPR4,Genetic,"Mus musculus",Genetic,PLPPR4,1,M_PLPPR4_1_KO_HM
+9,M_POGZ_2_KI_HT_Q1038R_NBQX,POGZ,Genetic,"Mus musculus",Pharmaceutical,NBQX,1,M_POGZ_2_KI_HT_Q1038R
+9,M_PAK2_1_KO_HT_Phospho-cofilin-peptide,PAK2,Genetic,"Mus musculus",Genetic,"Phospho-cofilin peptide",1,M_PAK2_1_KO_HT
+9,M_PCDH10_2_KO_HT_D-Cycloserine,PCDH10,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_PCDH10_2_KO_HT
+9,M_POGZ_2_KI_HT_Q1038R_Oxytocin,POGZ,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_POGZ_2_KI_HT_Q1038R
+9,M_POGZ_2_KI_HT_Q1038R_Perampanel,POGZ,Genetic,"Mus musculus",Pharmaceutical,Perampanel,1,M_POGZ_2_KI_HT_Q1038R
+9,M_PTCHD1_1_KO_HE_Amphetamine,PTCHD1,Genetic,"Mus musculus",Pharmaceutical,Amphetamine,1,M_PTCHD1_1_KO_HE
+9,M_PTCHD1_1_KO_HE_EBIO,PTCHD1,Genetic,"Mus musculus",Pharmaceutical,EBIO,1,M_PTCHD1_1_KO_HE
+9,M_PTEN_20_CKO_HM_Interneuron,PTEN,Genetic,"Mus musculus",Biological,Interneuron,1,M_PTEN_20_CKO_HM
+9,M_PTEN_20_CKO_HM_Rictor-antisense-oligonucleotide,PTEN,Genetic,"Mus musculus",Genetic,"Rictor antisense oligonucleotide",1,M_PTEN_20_CKO_HM
+9,M_PRKDC_1_SP_HM_Lymphocytes,PRKDC,Genetic,"Mus musculus",Transplantation,Lymphocytes,1,M_PRKDC_1_SP_HM
+9,M_PTCHD1_6_KD_HE_AD_,PTCHD1,Genetic,"Mus musculus",Genetic,,1,M_PTCHD1_6_KD_HE_AD
+9,M_PTEN_1_CKO_HM_Rapamycin,PTEN,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,2,M_PTEN_1_CKO_HM
+9,M_PTEN_20_CKO_HM_Rictor-conditional-knockout,PTEN,Genetic,"Mus musculus",Genetic,"Rictor conditional knockout",1,M_PTEN_20_CKO_HM
+9,M_PTEN_20_CKO_HM_Rptor-conditional-knockout,PTEN,Genetic,"Mus musculus",Genetic,"Rptor conditional knockout",1,M_PTEN_20_CKO_HM
+9,M_PTEN_2_CKO_HT_Fasting,PTEN,Genetic,"Mus musculus",Dietary,Fasting,1,M_PTEN_2_CKO_HT
+9,M_RAI1_3_KI_HT_PFC-activation,RAI1,Genetic,"Mus musculus",Procedural,"PFC activation",2,M_RAI1_3_KI_HT
+9,M_RAI1_3_KI_HT_Reinstatement-of-Rai1,RAI1,Genetic,"Mus musculus",Genetic,"Reinstatement of Rai1",4,M_RAI1_3_KI_HT
+9,M_RELN_3_SM_HT_Estradiol,RELN,Genetic,"Mus musculus",Pharmaceutical,Estradiol,1,M_RELN_3_SM_HT
+9,M_SCN1A_2_R1407X_KI_HT_Tau-deficiency,SCN1A,Genetic,"Mus musculus",Genetic,"Tau deficiency",2,M_SCN1A_2_R1407X_KI_HT
+9,M_SCN1A_6_KO_HT_Clonazepam,SCN1A,Genetic,"Mus musculus",Pharmaceutical,Clonazepam,1,M_SCN1A_6_KO_HT
+9,M_SCN2A_1_KO_HT_Ampalex,SCN2A,Genetic,"Mus musculus",Biological,Ampalex,1,M_SCN2A_1_KO_HT
+9,M_SGSH_1_SP_HM_G91A_Haloperidol,SGSH,"Genetic LOF","Mus musculus",Pharmaceutical,Haloperidol,1,M_SGSH_1_SP_HM_G91A
+9,M_SGSH_1_SP_HM_G91A_Racemetirosine,SGSH,"Genetic LOF","Mus musculus",Pharmaceutical,Racemetirosine,1,M_SGSH_1_SP_HM_G91A
+9,M_SGSH_1_SP_HM_G91A_SCH-23390,SGSH,"Genetic LOF","Mus musculus",Pharmaceutical,SCH-23390,2,M_SGSH_1_SP_HM_G91A
+9,M_SHANK2_3_KO_HM_CDPPB,SHANK2,Genetic,"Mus musculus",Pharmaceutical,CDPPB,2,M_SHANK2_3_KO_HM
+9,M_SHANK2_3_KO_HM_D-Cycloserine,SHANK2,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_SHANK2_3_KO_HM
+9,M_SHANK2_5_KO_HM_Clioquinol,SHANK2,Genetic,"Mus musculus",Pharmaceutical,Clioquinol,1,M_SHANK2_5_KO_HM
+9,M_SHANK2_5_KO_HM_D-Cycloserine,SHANK2,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_SHANK2_5_KO_HM
+9,M_SHANK2_5_KO_HM_Memantine,SHANK2,Genetic,"Mus musculus",Pharmaceutical,Memantine,4,M_SHANK2_5_KO_HM
+9,M_SHANK3_19_KO_HM_CDPPB,SHANK3,Genetic,"Mus musculus",Pharmaceutical,CDPPB,2,M_SHANK3_19_KO_HM
+9,M_SHANK3_19_KO_HM_MPEP,SHANK3,Genetic,"Mus musculus",Pharmaceutical,MPEP,1,M_SHANK3_19_KO_HM
+9,M_SHANK3_1_KO_HT_Insulin-like-growth-factor-1,SHANK3,Genetic,"Mus musculus",Pharmaceutical,"Insulin-like growth factor 1",2,M_SHANK3_1_KO_HT
+9,M_SHANK3_1_KO_HT_Insulin-like-growth-factor-1-peptide-derivative,SHANK3,Genetic,"Mus musculus",Pharmaceutical,"Insulin-like growth factor 1 peptide derivative",1,M_SHANK3_1_KO_HT
+9,"M_SHANK2_6_KO_HT_L-838,417",SHANK2,Genetic,"Mus musculus",Pharmaceutical,"L-838,417",1,M_SHANK2_6_KO_HT
+9,"M_SHANK2_7_KO_HT_L-838,417",SHANK2,Genetic,"Mus musculus",Pharmaceutical,"L-838,417",1,M_SHANK2_7_KO_HT
+9,M_SHANK3_10_KI_HM_INSG_Reinstatement-of-Shank3,SHANK3,Genetic,"Mus musculus",Genetic,"Reinstatement of Shank3",1,M_SHANK3_10_KI_HM_INSG
+9,M_SHANK3_21_KI_HM_Reinstatement-of-Shank3,SHANK3,Genetic,"Mus musculus",Genetic,"Reinstatement of Shank3",1,M_SHANK3_21_KI_HM
+9,M_SHANK3_25_KO_HM_ACC-chemogenetic-activation,SHANK3,Genetic,"Mus musculus",Procedural,"ACC chemogenetic activation",1,M_SHANK3_25_KO_HM
+9,M_SHANK3_25_KO_HM_ACC-optogenetic-activation,SHANK3,Genetic,"Mus musculus",Procedural,"ACC optogenetic activation",1,M_SHANK3_25_KO_HM
+9,M_SHANK3_25_KO_HM_CX-546,SHANK3,Genetic,"Mus musculus",Pharmaceutical,CX-546,4,M_SHANK3_25_KO_HM
+9,M_SHANK3_22_KI_HM_Reinstatement-of-Shank3,SHANK3,Genetic,"Mus musculus",Genetic,"Reinstatement of Shank3",2,M_SHANK3_22_KI_HM
+9,M_SHANK3_25_KO_HM_Lipopolysaccharide,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Lipopolysaccharide,1,M_SHANK3_25_KO_HM
+9,M_SHANK3_25_KO_HM_Primary-somatosensory-cortex-dysgranular-zone-(S1DZ)-optogenetic-inactivation,SHANK3,Genetic,"Mus musculus",Procedural,"Primary somatosensory cortex dysgranular zone (S1DZ) optogenetic inactivation",1,M_SHANK3_25_KO_HM
+9,M_SHANK3_4_KO_HM_Cocaine,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Cocaine,1,M_SHANK3_4_KO_HM
+9,M_SHANK3_30_KO_HT_Isoguvacine,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Isoguvacine,3,M_SHANK3_30_KO_HT
+9,M_SHANK3_31_KI_HT_Reinstatement-of-Shank3,SHANK3,Genetic,"Mus musculus",Genetic,"Reinstatement of Shank3",3,M_SHANK3_31_KI_HT
+9,M_SHANK3_32_KI_HM_Reinstatement-of-Shank3,SHANK3,Genetic,"Mus musculus",Genetic,"Reinstatement of Shank3",1,M_SHANK3_32_KI_HM
+9,M_SHANK3_4_KO_HM_CX-546,SHANK3,Genetic,"Mus musculus",Pharmaceutical,CX-546,1,M_SHANK3_4_KO_HM
+9,M_SHANK3_4_KO_HM_D-Cycloserine,SHANK3,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,2,M_SHANK3_4_KO_HM
+9,M_SHANK3_4_KO_HM_Lactobacillus-reuteri,SHANK3,Genetic,"Mus musculus",Transplantation,"Lactobacillus reuteri",2,M_SHANK3_4_KO_HM
+9,M_SHANK3_4_KO_HM_Zinc,SHANK3,Genetic,"Mus musculus",Dietary,Zinc,1,M_SHANK3_4_KO_HM
+9,"M_SHANK3_4_KO_HM_7,8-Dihydroxyflavone",SHANK3,Genetic,"Mus musculus",Pharmaceutical,"7,8-Dihydroxyflavone",1,M_SHANK3_4_KO_HM
+9,M_SHANK3_4_KO_HM_Lactobacillus-reuteri,SHANK3,Genetic,"Mus musculus",Dietary,"Lactobacillus reuteri",2,M_SHANK3_4_KO_HM
+9,M_SHANK3_4_KO_HM_Oxytocin,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Oxytocin,1,M_SHANK3_4_KO_HM
+9,M_SHANK3_4_KO_HM_Lithium,SHANK3,Genetic,"Mus musculus",Dietary,Lithium,1,M_SHANK3_4_KO_HM
+9,M_SHANK3_8_KO_HM_TG003,SHANK3,Genetic,"Mus musculus",Pharmaceutical,TG003,1,M_SHANK3_8_KO_HM
+9,M_SHANK3_8_KO_HT_Aripiprazole,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Aripiprazole,1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_beta-catenin-sh-RNA,SHANK3,Genetic,"Mus musculus",Genetic,"beta-catenin sh RNA",1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Clozapine,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Clozapine,1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_constititutively-active-Rac1,SHANK3,Genetic,"Mus musculus",Genetic,"constititutively active Rac1",1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Romidepsin,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Romidepsin,4,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Fluoxetine,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Fluoxetine,1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Hdac2-shRNA,SHANK3,Genetic,"Mus musculus",Genetic,"Hdac2 shRNA",2,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Phospho-cofilin-peptide,SHANK3,Genetic,"Mus musculus",Pharmaceutical,"Phospho-cofilin peptide",3,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Risperidone,SHANK3,Genetic,"Mus musculus",Pharmaceutical,Risperidone,1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_TG003,SHANK3,Genetic,"Mus musculus",Pharmaceutical,TG003,1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Trichostatin-A,SHANK3,Genetic,"Mus musculus",Pharmaceutical,"Trichostatin A",1,M_SHANK3_8_KO_HT
+9,M_SHANK3_8_KO_HT_Valproic-acid,SHANK3,Genetic,"Mus musculus",Pharmaceutical,"Valproic acid",1,M_SHANK3_8_KO_HT
+9,M_SLC1A2_2_CKO_HM_Desloratadine,SLC1A2,Genetic,"Mus musculus",Pharmaceutical,Desloratadine,1,M_SLC1A2_2_CKO_HM
+9,M_SLC1A2_2_CKO_HM_Fluoxetine,SLC1A2,Genetic,"Mus musculus",Pharmaceutical,Fluoxetine,2,M_SLC1A2_2_CKO_HM
+9,M_SLC1A2_2_CKO_HM_Memantine,SLC1A2,Genetic,"Mus musculus",Pharmaceutical,Memantine,1,M_SLC1A2_2_CKO_HM
+9,M_SLC6A3_3_KO_HM_Clozapine,SLC6A3,Genetic,"Mus musculus",Pharmaceutical,Clozapine,1,M_SLC6A3_3_KO_HM
+9,M_SLC6A3_3_KO_HM_Haloperidol,SLC6A3,Genetic,"Mus musculus",Pharmaceutical,Haloperidol,1,M_SLC6A3_3_KO_HM
+9,M_SLC6A3_3_KO_HM_Pregnenolone,SLC6A3,Genetic,"Mus musculus",Pharmaceutical,Pregnenolone,1,M_SLC6A3_3_KO_HM
+9,M_SLC6A4_4_KI_HM_G56A_Ablation-of-Mapk14,SLC6A4,Genetic,"Mus musculus",Genetic,"Ablation of Mapk14",1,M_SLC6A4_4_KI_HM_G56A
+9,M_SLC6A4_4_KI_HM_G56A_MW108,SLC6A4,Genetic,"Mus musculus",Pharmaceutical,MW108,2,M_SLC6A4_4_KI_HM_G56A
+9,M_SLC6A4_4_KI_HM_G56A_MW150,SLC6A4,Genetic,"Mus musculus",Pharmaceutical,MW150,2,M_SLC6A4_4_KI_HM_G56A
+9,M_SLC30A3_1_KO_HM_Minocycline,Slc30a3,Genetic,"Mus musculus",Pharmaceutical,Minocycline,1,M_SLC30A3_1_KO_HM
+9,M_SLC33A1_1_TG_Suppression-of-the-human-SLC33A1-human-transgene,SLC33A1,Genetic,"Mus musculus",Genetic,"Suppression of the human SLC33A1 human transgene",1,M_SLC33A1_1_TG
+9,M_SLC6A4_4_SERTALA56_HM_Prucalopride,SLC6A4,Genetic,"Mus musculus",Pharmaceutical,Prucalopride,1,M_SLC6A4_4_SERTALA56_HM
+9,M_SLC7A5_1_CKO_HM_Branched-chained-amino-acids,SLC7A5,Genetic,"Mus musculus",Pharmaceutical,"Branched-chained amino acids",1,M_SLC7A5_1_CKO_HM
+9,M_ST8SIA2_1_KO_HM_D-Cycloserine,ST8SIA2,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,3,M_ST8SIA2_1_KO_HM
+9,M_TAOK2_2_KO_HT_TAOK2ab-A135P,TAOK2,Genetic,"Mus musculus",Genetic,TAOK2ab-A135P,1,M_TAOK2_2_KO_HT
+9,M_TAOK2_2_KO_HT_TAOK2b-P1022,TAOK2,Genetic,"Mus musculus",Genetic,TAOK2b-P1022,1,M_TAOK2_2_KO_HT
+9,M_TAOK2_2_KO_HT_WT-TAOK2ab,TAOK2,Genetic,"Mus musculus",Genetic,WT-TAOK2ab,1,M_TAOK2_2_KO_HT
+9,M_STXBP1_3_KO_HT_Levetiracetam,STXBP1,Genetic,"Mus musculus",Pharmaceutical,Levetiracetam,2,M_STXBP1_3_KO_HT
+9,M_SYN2_1_KO_HM_THIP,SYN2,Genetic,"Mus musculus",Pharmaceutical,THIP,1,M_SYN2_1_KO_HM
+9,M_TBR1_1_KO_HT_D-Cycloserine,TBR1,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,2,M_TBR1_1_KO_HT
+9,M_TBR1_1_KO_HT_in-utero-electroporation-of-micro-RNA--Cdh8-and-Ntng1,TBR1,Genetic,"Mus musculus",Genetic,"in utero electroporation of micro-RNA- Cdh8 and Ntng1",1,M_TBR1_1_KO_HT
+9,M_TBR1_3_KO_HT_Clioquinone,TBR1,Genetic,"Mus musculus",Genetic,Clioquinone,1,M_TBR1_3_KO_HT
+9,M_TBR1_3_KO_HT_D-Cycloserine,TBR1,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_TBR1_3_KO_HT
+9,M_TBR1_3_KO_HT_Lithium,TBR1,Genetic,"Mus musculus",Pharmaceutical,Lithium,1,M_TBR1_3_KO_HT
+9,M_TBR1_5_CKO_HM_Lithium,TBR1,Genetic,"Mus musculus",Pharmaceutical,Lithium,2,M_TBR1_5_CKO_HM
+9,M_TBR1_5_CKO_HM_Reinstatement-of-Wnt7b,TBR1,Genetic,"Mus musculus",Genetic,"Reinstatement of Wnt7b",2,M_TBR1_5_CKO_HM
+9,M_TBR1_5_CKO_HM_SB216763,TBR1,Genetic,"Mus musculus",Pharmaceutical,SB216763,1,M_TBR1_5_CKO_HM
+9,M_TBR1_7_CKO_HM_Lithium,TBR1,Genetic,"Mus musculus",Pharmaceutical,Lithium,3,M_TBR1_7_CKO_HM
+9,M_TBR1_5_CKO_HT_Lithium,TBR1,Genetic,"Mus musculus",Pharmaceutical,Lithium,3,M_TBR1_5_CKO_HT
+9,M_TBR1_7_CKO_HM_SB216763,TBR1,Genetic,"Mus musculus",Pharmaceutical,SB216763,1,M_TBR1_7_CKO_HM
+9,M_TCF20_1_TG_TCF4-overexpression,TCF20,"Genetic LOF","Mus musculus",Genetic,"TCF4 overexpression",1,M_TCF20_1_TG
+9,M_TCF20_1_TG_TDG-overexpression,TCF20,"Genetic LOF","Mus musculus",Genetic,"TDG overexpression",1,M_TCF20_1_TG
+9,M_TCF4_1_KO_HT_AAV2-PRSx8-eGFPmScn10a-shRNAmir-injection,TCF4,Genetic,"Mus musculus",Genetic,"AAV2-PRSx8-eGFPmScn10a-shRNAmir injection",1,M_TCF4_1_KO_HT
+9,M_TCF4_1_KO_HT_Hdac2-shRNAs,TCF4,Genetic,"Mus musculus",Genetic,"Hdac2 shRNAs",1,M_TCF4_1_KO_HT
+9,M_TCF4_1_KO_HT_PF-04531083,TCF4,Genetic,"Mus musculus",Pharmaceutical,PF-04531083,1,M_TCF4_1_KO_HT
+9,M_TCF4_1_KO_HT_SAHA,TCF4,Genetic,"Mus musculus",Pharmaceutical,SAHA,1,M_TCF4_1_KO_HT
+9,M_TCF4_1_KO_HT_PF-06305591,TCF4,Genetic,"Mus musculus",Pharmaceutical,PF-06305591,1,M_TCF4_1_KO_HT
+9,M_TRIM32_1_HM_KO_3BDO,TRIM32,Genetic,"Mus musculus",Pharmaceutical,3BDO,1,M_TRIM32_1_HM_KO
+9,M_TRIM32_1_HM_KO_Clonazepam,TRIM32,Genetic,"Mus musculus",Pharmaceutical,Clonazepam,1,M_TRIM32_1_HM_KO
+9,M_TRIM32_1_HM_KO_M/LGE-progenitors,TRIM32,Genetic,"Mus musculus",Pharmaceutical,"M/LGE progenitors",1,M_TRIM32_1_HM_KO
+9,M_TERT_1_TG_HM_Memantine,TERT,Genetic,"Mus musculus",Pharmaceutical,Memantine,1,M_TERT_1_TG_HM
+9,M_TSC1_11_CKO_HM_PURKINJEN_Left-crus-I-Purkinje-neuron-stimulation,TSC1,Genetic,"Mus musculus",Procedural,"Left crus I Purkinje neuron stimulation",1,M_TSC1_11_CKO_HM_PURKINJEN
+9,M_TSC1_11_CKO_HM_PURKINJEN_Right-crus-I-Purkinje-neuron-stimulation,TSC1,Genetic,"Mus musculus",Procedural,"Right crus I Purkinje neuron stimulation",1,M_TSC1_11_CKO_HM_PURKINJEN
+9,M_TSC1_12_KD_D-Cycloserine,TSC1,Genetic,"Mus musculus",Pharmaceutical,D-Cycloserine,1,M_TSC1_12_KD
+9,M_TSC1_12_KD_Fenobam,TSC1,Genetic,"Mus musculus",Pharmaceutical,Fenobam,1,M_TSC1_12_KD
+9,M_TSC1_12_KD_SCH-23390,TSC1,Genetic,"Mus musculus",Pharmaceutical,SCH-23390,1,M_TSC1_12_KD
+9,M_TSC1_12_KD_SCH-39166,TSC1,Genetic,"Mus musculus",Pharmaceutical,SCH-39166,1,M_TSC1_12_KD
+9,M_TRPC6_1_KD-SHRNA_TRPC6-WTR-sh-RNA,TRPC6,Genetic,"Mus musculus",Genetic,TRPC6-WTR-sh-RNA,1,M_TRPC6_1_KD-SHRNA
+9,M_TSC1_12_CKO_HM_Rapamycin,TSC1,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_12_CKO_HM
+9,M_TSC1_12_CKO_HT_Rapamycin,TSC1,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_12_CKO_HT
+9,M_TSC1_13_CKO_HM_Rapamycin,TSC1,"Genetic LOF","Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_13_CKO_HM
+9,M_TSC1_14_CKO_HT_Rapamycin,TSC1,"Genetic LOF","Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_14_CKO_HT
+9,M_TSC1_15_CKO_HM_Rapamycin,TSC1,"Genetic LOF","Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_15_CKO_HM
+9,M_TSC1_16_CKO_HT_Rapamycin,TSC1,"Genetic LOF","Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_16_CKO_HT
+9,M_TSC1_5_CKO_HM_PURKINJEN_Rapamycin,TSC1,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,3,M_TSC1_5_CKO_HM_PURKINJEN
+9,M_TSC1_5_CKO_HT_PURKINJEN_Rapamycin,TSC1,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC1_5_CKO_HT_PURKINJEN
+9,M_TSC1_7_KO_HT_Rapamycin,TSC1,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,6,M_TSC1_7_KO_HT
+9,M_TSC2_10_KO_ATG7_DM_Rapamycin,TSC2,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC2_10_KO_ATG7_DM
+9,M_UBE3A_14_KO_HE_Reinstatement-of-Ube3a-in-GABAergic-neurons,UBE3A,Genetic,"Mus musculus",Genetic,"Reinstatement of Ube3a in GABAergic neurons",1,M_UBE3A_14_KO_HE
+9,M_UBE3A_14_KO_HE_Reinstatement-of-Ube3a-in-glutamatergic-neurons,UBE3A,Genetic,"Mus musculus",Genetic,"Reinstatement of Ube3a in glutamatergic neurons",1,M_UBE3A_14_KO_HE
+9,M_TSC2_12_KO_HT_Rapamycin,TSC2,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,1,M_TSC2_12_KO_HT
+9,M_TSC2_8_KO_HT_Rapamycin,TSC2,Genetic,"Mus musculus",Pharmaceutical,Rapamycin,4,M_TSC2_8_KO_HT
+9,M_UBE3A_21_CKI_IN_PTZ_Cbln1-expression,UBE3A,Multifactorial,"Mus musculus",Genetic,"Cbln1 expression",1,M_UBE3A_21_CKI_IN_PTZ
+9,M_UBE3A_3_HT_M_THIP,UBE3A,Genetic,"Mus musculus",Pharmaceutical,THIP,2,M_UBE3A_3_HT_M
+9,M_UPF2_1_CKO_HT_Cyclophosphamide,UPF2,Genetic,"Mus musculus",Pharmaceutical,Cyclophosphamide,1,M_UPF2_1_CKO_HT
+9,M_UPF2_1_CKO_HT_Minocycline,UPF2,Genetic,"Mus musculus",Pharmaceutical,Minocycline,1,M_UPF2_1_CKO_HT
+9,M_UBE3A_4_HT_M-P+_Apamin,UBE3A,Genetic,"Mus musculus",Pharmaceutical,Apamin,1,M_UBE3A_4_HT_M-P+
+9,M_UPF3B_1_KO_HM_Haloperidol,UPF3B,Genetic,"Mus musculus",Pharmaceutical,Haloperidol,1,M_UPF3B_1_KO_HM

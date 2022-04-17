@@ -1,0 +1,9 @@
+id,status,strain-symbol,strain-name,model-species,number-of-models,has-rescue-model
+1,9,BALBcByJ,BALB/cByJ,"Mus musculus",24,1
+2,9,BTBR,"BTBR T+ Itpr3tf/J","Mus musculus",73,1
+3,9,129S1SVIMJ,129S1/SvImJ,"Mus musculus",1,0
+4,9,AJ,A/J,"Mus musculus",1,0
+5,9,EL,EL/SuzSeyFrkJ,"Mus musculus",3,1
+6,9,C3HHEJ,C3H/HeJ,"Mus musculus",1,0
+7,9,C58/J,C58/J,"Mus musculus",1,0
+8,9,AKRJ,AKR/J,"Mus musculus",0,0
