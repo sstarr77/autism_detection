@@ -1,6 +1,3 @@
-# autism_detection
-ML model to detect presence of autism in an individual.
-
 # Detecting the Presence of Autism Spectrum Disorder
 
 -----------
